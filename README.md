@@ -72,7 +72,6 @@
 
 ![Promtail](https://img.shields.io/badge/Promtail-0B6F99?style=for-the-badge&logoColor=white)
 
-"""
 
 ---
 
@@ -93,3 +92,6 @@
 
 ## 📈 Contribution Graph
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jothamcloud&theme=radical)
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=Jothamcloud&color=blue)
