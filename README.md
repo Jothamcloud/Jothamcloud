@@ -3,6 +3,8 @@
 ☁ **AWS Cloud Technologist** | 🛠 **Cloud Infrastructure Specialist** | 🚀 **DevOps Engineer**  
 🌐 Passionate about designing scalable cloud solutions and automating infrastructure.
 
+Most of my Works and projects are in private repo
+
 ---
 
 ## 🌐 Let's Connect
